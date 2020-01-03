@@ -25,7 +25,7 @@ Let's see an example:
 <div class="codecell" markdown="1">
 <div class="input_area" markdown="1">
 
-```python
+```
 say_hello('nbdev')
 ```
 
