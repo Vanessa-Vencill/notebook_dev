@@ -3,7 +3,7 @@ output: web
 topnav_title: notebook_dev
 site_title: notebook_dev
 company_name: Benjamin Vencill
-description: Notebook development environment using nbdev. See www.nbdev.fast.ai
+description: Notebook development environment using nbdev
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
